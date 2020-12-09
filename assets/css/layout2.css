@@ -1,0 +1,10 @@
+p{
+		font-size: 26px;
+	}
+
+.user{
+	position: absolute;
+    left: 400px;
+	top: 100px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
